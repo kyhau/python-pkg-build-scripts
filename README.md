@@ -1,6 +1,6 @@
 # python-pkg-build-scripts
 
-This repo contains some scripts for building
+This repo contains scripts for building the following python packages.
 
 ## gurobipy
 1. gurobipy win32 wheels for python-2.7, python-3.4  
